@@ -1,9 +1,9 @@
 # PracticasTallerGIT
 
 # FORMATO DE JUEGO GATO
- | | 
- |X| 
- | | 
+ 0 |   | 
+   | X | 
+   |   | 
 
 
  

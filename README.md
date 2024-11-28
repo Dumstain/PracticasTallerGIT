@@ -3,7 +3,7 @@
 # FORMATO DE JUEGO GATO
 
  | | 
-0 | | 
+0 | x| 
  x| | 
 
 

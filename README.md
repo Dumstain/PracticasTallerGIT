@@ -2,7 +2,7 @@
 
 # FORMATO DE JUEGO GATO
  o| |x 
- x|o| 
+ x|o|o 
  o| |x 
 
 

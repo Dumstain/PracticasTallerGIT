@@ -2,8 +2,10 @@
 
 # FORMATO DE JUEGO GATO
  x|o|x 
-  |o| 
+  |o|x
  o| |x 
+
+ MIGUEL GANO EL PRIMER JUEGO
 
 
  

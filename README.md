@@ -1,7 +1,7 @@
 # PracticasTallerGIT
 
 # FORMATO DE JUEGO GATO
- o| | 
+ o| |x 
  x|o| 
  o| |x 
 
